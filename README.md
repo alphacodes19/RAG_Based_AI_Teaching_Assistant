@@ -6,7 +6,7 @@ An intelligent video content Q&A system that transforms educational videos into 
 
 This system enables students to ask questions about video course content and receive precise answers with exact timestamps, making it easier to navigate through hours of educational material and find specific information instantly.
 
-**Live Demo:** [(https://rag-based-ai-teaching-assistant-du9wxycxzhka6t2bjzrr7w.streamlit.app)]
+**Live Demo:** [(https://ragbasedaiteachingassistant-9gyo2aappcge3fjc2mjanmh.streamlit.app/)]
 
 ##  Key Features
 
