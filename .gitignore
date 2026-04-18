@@ -1,0 +1,7 @@
+.DS_Store
+audios/
+videos/
+embeddings.joblib
+__pycache__/
+*.pyc
+.env
