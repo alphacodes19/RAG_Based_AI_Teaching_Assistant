@@ -71,7 +71,7 @@ The system follows a 6-step pipeline:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/rag-ai-teaching-assistant.git
-   cd RAG_Based_Ai_Teaching_Assistant
+   cd RAG_Based_AI_Teaching_Assistant
    ```
 
 2. **Install dependencies:**
@@ -112,18 +112,21 @@ The system follows a 6-step pipeline:
 ## 📁 Project Structure
 
 ```
-RAG_Based_Ai_Teaching_Assistant/
+RAG_Based_AI_Teaching_Assistant/
 ├── videos/                 # Input video files
 ├── audios/                 # Converted MP3 files
 ├── jsons/                  # Transcription JSON files
-├── embeddings.joblib       # Processed embeddings
+├── embeddings_cloud.joblib  # Processed embeddings
 ├── app.py                  # Main Streamlit application
 ├── video_to_mp3.py        # Video conversion script
-├── mp3_to_json.py         # Speech-to-text processing
+├── mp3_to_json.py        # Speech-to-text processing
+├── cloud_preprocess.py
+├── cloud_app.py
 ├── preprocess_json.py     # Embedding generation
 ├── process_incoming.py    # CLI query processor
 ├── simple_app.py          # Simplified version
 └── requirements.txt       # Dependencies
+├── response.txt
 ```
 
 ## 💡 Usage Examples
@@ -165,5 +168,3 @@ RAG_Based_Ai_Teaching_Assistant/
 - BGE-M3 for high-quality embeddings
 
 
-
-**Built with ❤️ for better learning experiences**
