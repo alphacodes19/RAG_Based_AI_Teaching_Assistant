@@ -1,4 +1,4 @@
-# RAG AI Teaching Assistant 
+# RAG Based AI Teaching Assistant 
 
 An intelligent video content Q&A system that transforms educational videos into an interactive learning experience using Retrieval-Augmented Generation (RAG) technology.
 
@@ -71,7 +71,7 @@ The system follows a 6-step pipeline:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/rag-ai-teaching-assistant.git
-   cd rag-ai-teaching-assistant
+   cd RAG_Based_Ai_Teaching_Assistant
    ```
 
 2. **Install dependencies:**
@@ -112,7 +112,7 @@ The system follows a 6-step pipeline:
 ## 📁 Project Structure
 
 ```
-rag-ai-teaching-assistant/
+RAG_Based_Ai_Teaching_Assistant/
 ├── videos/                 # Input video files
 ├── audios/                 # Converted MP3 files
 ├── jsons/                  # Transcription JSON files
